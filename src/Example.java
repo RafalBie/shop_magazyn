@@ -7,7 +7,7 @@ import java.util.List;
 public class Example {
 
     public static void main(String[] args) {
-        Product product = new Product("abc", BigDecimal.ONE, Status.IS_AVAILABLE);
+        Product product = new Product("abcdt", BigDecimal.ONE, Status.IS_AVAILABLE);
         Product product2 = new Product("bca", BigDecimal.TEN, Status.IS_AVAILABLE);
 //
 //        List<StoredProduct> storedProducts = new ArrayList<>();
